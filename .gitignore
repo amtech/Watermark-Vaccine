@@ -1,0 +1,11 @@
+
+WDNet/demo_src/Watermark_free_image/
+WDNet/dataset/
+WDNet/WDNet_D.pkl
+WDNet/WDNet_G.pkl
+WDNet/demo_src/Watermark_free_image/*.jpg
+WDNet/demo_src/Watermark_free_image/1372.jpg
+WDNet/demo_src/Watermark_free_image/1373.jpg
+WDNet/demo_src/Watermark_free_image/1374.jpg
+WDNet/demo_src/Watermark_free_image/1019.jpg
+WDNet/demo_src/Watermark_free_image/1018.jpg
